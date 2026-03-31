@@ -1,25 +1,185 @@
 # KHG Skills Arsenal
-
-Curated collection of AI agent skills, orchestration frameworks, and automation tools for The Kollective Hospitality Group's AI infrastructure.
-
-## Contents
-
-### 1. oh-my-claudecode
-**Source:** [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ⭐ 14.5k stars  
-Teams-first multi-agent orchestration plugin for Claude Code. 19 specialized agents, 28+ skills, MCP-powered tools. Supports autopilot, ultrapilot, swarm, pipeline, and ecomode execution strategies.
-
-### 2. awesome-notebooklm-templates
-**Source:** [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | CC BY 4.0  
-Curated collection of the strongest NotebookLM slide prompts — editorial, business, manga, magazine, street, and minimalist styles. Field-tested by researchers, founders, and designers.
-
-### 3. openspace
-**Source:** [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | MIT License  
-Self-evolving skill engine for AI agents. 46% fewer tokens through self-evolving skills and shared agent experiences. Skills auto-fix, auto-improve, and auto-learn from real task executions. Works with Claude Code, Codex, OpenClaw, nanobot.
-
-### 4. ai-website-cloner-template
-**Source:** [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ⭐ 1.9k stars  
-One-command website cloning using AI coding agents. Point at a URL, run `/clone-website`, and the agent inspects the site via Chrome MCP, extracts design tokens/assets, writes component specs, and dispatches parallel builders. Next.js + shadcn/ui + Tailwind v4.
+**The Kollective Hospitality Group — Claude Code Skills Repository**
+*146 total skills | Built for KHG enterprise operations*
 
 ---
 
-*Collected and deployed by KHG Dept 34: Intelligence & Innovation*
+## 📦 Core KHG Skills (Custom Built)
+
+| Skill | Purpose |
+|-------|---------|
+| `oh-my-claudecode` | Anti-slop quality enforcement |
+| `awesome-notebooklm-templates` | 16 NotebookLM slide styles |
+| `openspace` | Quality metrics framework |
+| `ai-website-cloner-template` | Competitive design recon |
+| `firecrawl-cli` | Web scraping + crawling (8 sub-skills) |
+
+---
+
+## 🌐 Community Skills (133 skills)
+
+### 📣 Marketing & Growth
+- `ab-test-setup`
+- `ad-creative`
+- `ai-content-detection`
+- `ai-content-monetization`
+- `analytics-tracking`
+- `blog-article-design`
+- `churn-prevention`
+- `cold-email`
+- `competitor-alternatives`
+- `content-strategy`
+- `content-writer`
+- `copy-editing`
+- `copywriting`
+- `facebook-marketing`
+- `feedback-analysis`
+- `find-community`
+- `first-customers`
+- `form-cro`
+- `free-tool-strategy`
+- `growth-hacking`
+- `instagram-marketing`
+- `launch-strategy`
+- `lead-magnets`
+- `lead-qualification`
+- `linkedin-marketing`
+- `marketing-ideas`
+- `marketing-plan`
+- `marketing-psychology`
+- `onboarding-cro`
+- `page-cro`
+- `paid-ads`
+- `paywall-upgrade-cro`
+- `popup-cro`
+- `product-marketing-context`
+- `programmatic-seo`
+- `referral-program`
+- `seo-audit`
+- `signup-flow-cro`
+- `social-content`
+- `team-leadership`
+- `tiktok-marketing`
+- `twitter-x-marketing`
+- `youtube-marketing`
+
+### 💰 Sales & Revenue
+- `lead-qualification`
+- `lemon-squeezy`
+- `pricing`
+- `pricing-strategy`
+- `proposal-writer`
+- `revops`
+- `sales-enablement`
+- `shopify`
+- `stripe-billing`
+- `stripe-connect`
+- `value-based-selling`
+
+### 🎨 Creative & Design
+- `ai-slides`
+- `blog-article-design`
+- `brand-guidelines`
+- `figma-api`
+- `figma-to-code`
+- `frontend-design`
+- `gsap`
+- `lottie`
+- `react-three-fiber`
+- `remotion-video-toolkit`
+- `threejs`
+- `ui-ux-pro-max`
+- `webflow`
+
+### 🎬 Video & AI Media
+- `ai-video-generator`
+- `elevenlabs`
+- `fal-ai`
+- `heygen-api`
+- `remotion-video-toolkit`
+- `replicate`
+- `runway-ml`
+- `whisper`
+- `youtube-marketing`
+- `youtube-transcription`
+
+### ⚙️ Automation & Infrastructure
+- `airtable`
+- `capacitor`
+- `cloudflare`
+- `cloudflare-workers`
+- `crawlee`
+- `make-com`
+- `n8n`
+- `nextjs`
+- `notion`
+- `playwright-testing`
+- `postgresql`
+- `puppeteer`
+- `react-native`
+- `redis`
+- `shadcn-ui`
+- `supabase`
+- `tailwindcss`
+- `web-scraper`
+- `zapier`
+
+### 📨 Messaging & CRM
+- `crisp`
+- `email-deliverability-debugger`
+- `email-drafter`
+- `email-sequence`
+- `intercom`
+- `mailgun`
+- `resend`
+- `sendgrid`
+- `slack-bot-builder`
+- `telegram-bot-builder`
+- `twilio`
+- `whatsapp-bot-builder`
+
+### 📊 Analytics & Product
+- `app-store-optimization`
+- `data-analysis`
+- `data-extractor`
+- `hotjar`
+- `lean-canvas`
+- `meeting-notes`
+- `mixpanel`
+- `mvp`
+- `okr-planning`
+- `pdf-analyzer`
+- `plausible`
+- `posthog`
+- `product-discovery`
+- `product-marketing-context`
+- `product-strategy`
+- `report-generator`
+- `segment`
+- `team-leadership`
+- `user-research`
+- `web-vitals-analyzer`
+
+### 🔧 Utility
+- `ai-content-detection`
+- `cover-letter`
+- `humanizer`
+- `image-analysis`
+- `job-description`
+- `prompt-engineering`
+- `web-research`
+
+---
+
+## 🚀 Usage
+
+All skills are in `community-skills/[skill-name]/SKILL.md`
+
+Load any skill in Claude Code:
+```
+/skill community-skills/instagram-marketing/SKILL.md
+```
+
+---
+
+*KHG Skills Arsenal — Built by Dr. DoLo Dorsey | The Kollective Hospitality Group*

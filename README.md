@@ -1,6 +1,6 @@
 # KHG Skills Arsenal
 **The Kollective Hospitality Group — Claude Code Skills Repository**
-*146 total skills | Built for KHG enterprise operations*
+*147 total skills | Built for KHG enterprise operations*
 
 ---
 
@@ -8,6 +8,7 @@
 
 | Skill | Purpose |
 |-------|---------|
+| `khg-email-marketing` | Backend-aware, brand-isolated enterprise email marketing |
 | `oh-my-claudecode` | Anti-slop quality enforcement |
 | `awesome-notebooklm-templates` | 16 NotebookLM slide styles |
 | `openspace` | Quality metrics framework |
@@ -173,10 +174,16 @@
 
 ## 🚀 Usage
 
-All skills are in `community-skills/[skill-name]/SKILL.md`
+Custom KHG skills are stored at `[skill-name]/SKILL.md`.
+Community skills are in `community-skills/[skill-name]/SKILL.md`.
 
-Load any skill in Claude Code:
+Load the KHG email marketing skill in Claude Code:
+```bash
+/skill khg-email-marketing/SKILL.md
 ```
+
+Load any community skill:
+```bash
 /skill community-skills/instagram-marketing/SKILL.md
 ```
 

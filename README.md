@@ -1,6 +1,6 @@
 # KHG Skills Arsenal
 **The Kollective Hospitality Group — Claude Code Skills Repository**
-*154 total skills | Built for KHG enterprise operations*
+*155 total skills | Built for KHG enterprise operations*
 
 ---
 
@@ -16,6 +16,7 @@
 | `khg-autonomy-audit` | Evidence-based autonomous-enterprise readiness and fake-complete detection |
 | `khg-email-marketing` | Backend-aware, brand-isolated enterprise email marketing |
 | `khg-ig-lead-source` | Backend-aware, brand-isolated Instagram lead sourcing + qualification |
+| `khg-public-source-harvester` | Find high-yield public source sites, verify crawl permission, and harvest reusable public username inventories |
 | `oh-my-claudecode` | Anti-slop quality enforcement |
 | `awesome-notebooklm-templates` | 16 NotebookLM slide styles |
 | `openspace` | Quality metrics framework |
@@ -193,10 +194,11 @@ Core autonomous command:
 /skill khg-autonomy-audit/SKILL.md
 ```
 
-Brand growth skills:
+Brand growth + sourcing skills:
 ```bash
 /skill khg-email-marketing/SKILL.md
 /skill khg-ig-lead-source/SKILL.md
+/skill khg-public-source-harvester/SKILL.md
 ```
 
 Load any community skill:

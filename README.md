@@ -1,6 +1,6 @@
 # KHG Skills Arsenal
 **The Kollective Hospitality Group — Claude Code Skills Repository**
-*148 total skills | Built for KHG enterprise operations*
+*154 total skills | Built for KHG enterprise operations*
 
 ---
 
@@ -8,6 +8,12 @@
 
 | Skill | Purpose |
 |-------|---------|
+| `khg-enterprise-command` | Enterprise objective attack, prioritization, routing + executive control |
+| `khg-entity-gm` | Daily autonomous GM attack for one isolated entity |
+| `khg-department-governor` | Department-wide systems + specialist routing without merging brands |
+| `khg-event-command` | Event countdown, revenue, promotion, production + closeout command |
+| `khg-platform-watchdog` | Supabase/GitHub/Vercel/automation health + safe archive hygiene |
+| `khg-autonomy-audit` | Evidence-based autonomous-enterprise readiness and fake-complete detection |
 | `khg-email-marketing` | Backend-aware, brand-isolated enterprise email marketing |
 | `khg-ig-lead-source` | Backend-aware, brand-isolated Instagram lead sourcing + qualification |
 | `oh-my-claudecode` | Anti-slop quality enforcement |
@@ -178,13 +184,18 @@
 Custom KHG skills are stored at `[skill-name]/SKILL.md`.
 Community skills are in `community-skills/[skill-name]/SKILL.md`.
 
-Load the KHG email marketing skill in Claude Code:
+Core autonomous command:
 ```bash
-/skill khg-email-marketing/SKILL.md
+/skill khg-enterprise-command/SKILL.md
+/skill khg-entity-gm/SKILL.md
+/skill khg-event-command/SKILL.md
+/skill khg-platform-watchdog/SKILL.md
+/skill khg-autonomy-audit/SKILL.md
 ```
 
-Load the KHG Instagram lead source skill:
+Brand growth skills:
 ```bash
+/skill khg-email-marketing/SKILL.md
 /skill khg-ig-lead-source/SKILL.md
 ```
 

@@ -1,6 +1,6 @@
 # KHG Skills Arsenal
 **The Kollective Hospitality Group — Claude Code Skills Repository**
-*155 total skills | Built for KHG enterprise operations*
+*165 total skills | Built for KHG enterprise operations*
 
 ---
 
@@ -14,6 +14,16 @@
 | `khg-event-command` | Event countdown, revenue, promotion, production + closeout command |
 | `khg-platform-watchdog` | Supabase/GitHub/Vercel/automation health + safe archive hygiene |
 | `khg-autonomy-audit` | Evidence-based autonomous-enterprise readiness and fake-complete detection |
+| `khg-growth-command` | Full-funnel growth, audience, offers, experiments, attribution + demand command |
+| `khg-social-command` | Platform-native social programming tied to objectives, engagement and conversion |
+| `khg-engagement-command` | Strategic community engagement, intent capture, warm-up and relationship progression |
+| `khg-outreach-command` | Evidence-based multi-channel outreach, sequencing, follow-up + pipeline progression |
+| `khg-sponsor-command` | Sponsorship inventory, scoring, valuation, proposals, follow-up + close management |
+| `khg-grant-command` | Primary-source grant discovery, eligibility, deadlines, narrative + submission readiness |
+| `khg-ambassador-command` | Ambassador/influencer sourcing, tiering, offers, onboarding, tracking + performance |
+| `khg-lead-intelligence` | Multi-source lead sourcing, intent signals, evidence, dedupe, data-use + routing |
+| `khg-data-growth-intelligence` | Data governance, segmentation, attribution, source economics + signal intelligence |
+| `khg-marketing-automation` | Event-driven Supabase/n8n/GHL growth automation, retries, QA + observability |
 | `khg-email-marketing` | Backend-aware, brand-isolated enterprise email marketing |
 | `khg-ig-lead-source` | Backend-aware, brand-isolated Instagram lead sourcing + qualification |
 | `khg-public-source-harvester` | Find high-yield public source sites, verify crawl permission, and harvest reusable public username inventories |
@@ -192,6 +202,20 @@ Core autonomous command:
 /skill khg-event-command/SKILL.md
 /skill khg-platform-watchdog/SKILL.md
 /skill khg-autonomy-audit/SKILL.md
+```
+
+Advanced growth operating stack:
+```bash
+/skill khg-growth-command/SKILL.md
+/skill khg-social-command/SKILL.md
+/skill khg-engagement-command/SKILL.md
+/skill khg-outreach-command/SKILL.md
+/skill khg-sponsor-command/SKILL.md
+/skill khg-grant-command/SKILL.md
+/skill khg-ambassador-command/SKILL.md
+/skill khg-lead-intelligence/SKILL.md
+/skill khg-data-growth-intelligence/SKILL.md
+/skill khg-marketing-automation/SKILL.md
 ```
 
 Brand growth + sourcing skills:

@@ -1,0 +1,531 @@
+{
+  "generated_at": "2026-09-20",
+  "source": "KOLLECTIVE BOH enterprise_directory_records",
+  "sites": [
+    {
+      "url": "https://bevco-intl.vercel.app",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "bevco-intl",
+      "entity_name": "BEVCO INTL"
+    },
+    {
+      "url": "https://www.caspergroupworldwide.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "casper-group",
+      "entity_name": "Casper Group"
+    },
+    {
+      "url": "https://thegoodtimesworldwide.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "good-times",
+      "entity_name": "Good Times"
+    },
+    {
+      "url": "https://help911.help",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "help-911",
+      "entity_name": "Help 911"
+    },
+    {
+      "url": "https://iconic-atl.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "iconic-live-entertainment",
+      "entity_name": "ICONIC"
+    },
+    {
+      "url": "https://watertoinfinity.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "infinity-water",
+      "entity_name": "Infinity Water"
+    },
+    {
+      "url": "https://luxe-on-demand-app.vercel.app",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "luxe-on-demand",
+      "entity_name": "Luxe on Demand"
+    },
+    {
+      "url": "https://mission-365.vercel.app",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "mission-365",
+      "entity_name": "Mission 365"
+    },
+    {
+      "url": "https://oncallallday.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "on-call",
+      "entity_name": "On Call"
+    },
+    {
+      "url": "https://prontoenergydrink.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "pronto-energy",
+      "entity_name": "Pronto Energy"
+    },
+    {
+      "url": "https://thesuperherosonstandby.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "s-o-s",
+      "entity_name": "S.O.S."
+    },
+    {
+      "url": "https://111atl.com",
+      "status": "active",
+      "priority": "critical",
+      "entity_key": "rose-on-piedmont",
+      "entity_name": "The Rose on Piedmont"
+    },
+    {
+      "url": "https://double-zero-three.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "double-zero",
+      "entity_name": "00 : Double Zero Mocktail"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/angel-wings",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "angel-wings",
+      "entity_name": "Angel Wings"
+    },
+    {
+      "url": "https://www.aquiferwaterworks.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "aquifer-waterworks",
+      "entity_name": "Aquifer Waterworks"
+    },
+    {
+      "url": "https://bare-website.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "bare",
+      "entity_name": "Bare"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "greek-ball",
+      "entity_name": "Beauty & The Beast: Greek Ball"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "black-ball",
+      "entity_name": "Black Ball"
+    },
+    {
+      "url": "https://bodegabodegabodega.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "bodega",
+      "entity_name": "BODEGA"
+    },
+    {
+      "url": "https://casa-cantina.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "casa-cantina",
+      "entity_name": "Casa Cantina Margarita"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "champagne-ball",
+      "entity_name": "Champagne Ball"
+    },
+    {
+      "url": "https://doctordorsey.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "consultations",
+      "entity_name": "Consultations"
+    },
+    {
+      "url": "https://doctordorsey.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "courses",
+      "entity_name": "Courses"
+    },
+    {
+      "url": "https://www.diasporainatl.com",
+      "status": "build",
+      "priority": "high",
+      "entity_key": "diaspora-in-atl",
+      "entity_name": "Diaspora in ATL"
+    },
+    {
+      "url": "https://doctordorsey.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "dr-dorsey",
+      "entity_name": "Dr. Dorsey"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/espresso-co",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "espresso-co",
+      "entity_name": "Espresso Co"
+    },
+    {
+      "url": "https://www.everydaywatergroup.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "everyday-water-group",
+      "entity_name": "Everyday Water Group"
+    },
+    {
+      "url": "https://fenyx-gules.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "fenyx",
+      "entity_name": "FĚNYX"
+    },
+    {
+      "url": "https://iconic-atl.com/series/21-plus",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "grown-ish",
+      "entity_name": "Grown-ish"
+    },
+    {
+      "url": "https://doctordorsey.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "hakuna-matata",
+      "entity_name": "Hakuna Matata"
+    },
+    {
+      "url": "https://iconic-atl.com/las-vegas",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "iconic-las-vegas",
+      "entity_name": "ICONIC Las Vegas"
+    },
+    {
+      "url": "https://iconic-atl.com/tampa",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "iconic-tampa",
+      "entity_name": "ICONIC Tampa"
+    },
+    {
+      "url": "https://iconic-atl.com/washington-dc",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "iconic-washington-dc",
+      "entity_name": "ICONIC Washington DC"
+    },
+    {
+      "url": "https://island-water.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "island-water",
+      "entity_name": "Island Water Coconut Water"
+    },
+    {
+      "url": "https://thekollectivehospitality.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "kollective-hospitality-texas",
+      "entity_name": "Kollective Hospitality Texas"
+    },
+    {
+      "url": "https://thaoldatlanta.com/",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "make-atlanta-great-again",
+      "entity_name": "Make Atlanta Great Again"
+    },
+    {
+      "url": "https://mister-manufacturing.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "mister-manufacturing",
+      "entity_name": "Mister Manufacturing"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/mojo-juice",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "mojo-juice",
+      "entity_name": "Mojo Juice"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "monsters-ball",
+      "entity_name": "Monsters Ball"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/the-morning-after",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "morning-after",
+      "entity_name": "Morning After"
+    },
+    {
+      "url": "https://www.nativawaterworks.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "nativa-waterworks",
+      "entity_name": "Nativa Waterworks"
+    },
+    {
+      "url": "https://noir-espresso-liqueur.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "noir-espresso-liqueur",
+      "entity_name": "Noir — Espresso Liqueur"
+    },
+    {
+      "url": "https://ora-sparkling-water.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "ora-sparkling-water",
+      "entity_name": "ORA Sparkling Water"
+    },
+    {
+      "url": "https://otini.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "otini-espresso-martini",
+      "entity_name": "OTINI — Espresso Martini"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/patty-daddy",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "patty-daddy",
+      "entity_name": "Patty Daddy"
+    },
+    {
+      "url": "https://prive-vodka.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "prive-vodka",
+      "entity_name": "Prive Vodka"
+    },
+    {
+      "url": "https://yourpulsehq.com",
+      "status": "development",
+      "priority": "high",
+      "entity_key": "pulse-lounge-wear",
+      "entity_name": "Pulse — Lounge Wear"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "rose-ball",
+      "entity_name": "Rose Ball"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "snow-ball",
+      "entity_name": "Snow Ball"
+    },
+    {
+      "url": "https://www.thesoleexchangeworldwide.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "sole-exchange",
+      "entity_name": "Sole Exchange"
+    },
+    {
+      "url": "https://iconic-atl.com/series/30-plus",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "soul-sessions",
+      "entity_name": "Soul Session"
+    },
+    {
+      "url": "https://www.stushusa.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "stush",
+      "entity_name": "STUSH"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/sweet-tooth",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "sweet-tooth",
+      "entity_name": "Sweet Tooth"
+    },
+    {
+      "url": "https://tempo.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "tempo-electrolytes",
+      "entity_name": "TEMPO Electrolytes"
+    },
+    {
+      "url": "https://iconic-atl.com/ball-series",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "ball-series",
+      "entity_name": "The Ball Series"
+    },
+    {
+      "url": "https://www.thekollectivehospitality.com",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "the-kollective",
+      "entity_name": "The Kollective"
+    },
+    {
+      "url": "https://the-university.vercel.app",
+      "status": "development",
+      "priority": "high",
+      "entity_key": "the-university",
+      "entity_name": "The University"
+    },
+    {
+      "url": "https://xxx-vodka.vercel.app",
+      "status": "active",
+      "priority": "high",
+      "entity_key": "xxx-vodka",
+      "entity_name": "XXX Vodka"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/american-dragon",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "american-dragon",
+      "entity_name": "American Dragon"
+    },
+    {
+      "url": "https://www.bodegabodegabodega.com/",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "bodega-bodega-bodega",
+      "entity_name": "Bodega Bodega Bodega"
+    },
+    {
+      "url": "https://brand-studio-website.vercel.app",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "brand-studio",
+      "entity_name": "Brand Studio"
+    },
+    {
+      "url": "https://thaoldatlanta.com",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "make-atlanta-great-again-merchandise",
+      "entity_name": "Make Atlanta Great Again — Merchandise"
+    },
+    {
+      "url": "https://members-elite-website.vercel.app",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "member-s-elite",
+      "entity_name": "Member's Elite"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/mr-oyster",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "mr-oyster",
+      "entity_name": "Mr. Oyster"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/pasta-bish",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "pasta-bish",
+      "entity_name": "Pasta Bish"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/peace-pizza",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "peace-pizza",
+      "entity_name": "Peace Pizza"
+    },
+    {
+      "url": "https://playmakersports.org",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "playmaker-s-sports-association",
+      "entity_name": "Playmaker's Sports Association"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/taco-yaki",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "taco-yaki",
+      "entity_name": "Taco Yaki"
+    },
+    {
+      "url": "https://thatasteofart.com",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "taste-of-art",
+      "entity_name": "Taste of Art"
+    },
+    {
+      "url": "https://the-law-web.vercel.app",
+      "status": "build",
+      "priority": "medium",
+      "entity_key": "the-law",
+      "entity_name": "The Law"
+    },
+    {
+      "url": "https://themindstudioworldwide.com",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "the-mind-studio",
+      "entity_name": "The Mind Studio"
+    },
+    {
+      "url": "https://caspergroupworldwide.com/tossd",
+      "status": "needs_contact_info",
+      "priority": "medium",
+      "entity_key": "toss-d",
+      "entity_name": "Toss'd"
+    },
+    {
+      "url": "https://tribal-water.vercel.app",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "tribal-water",
+      "entity_name": "Tribal Water"
+    },
+    {
+      "url": "https://umbrellaautoexchange.com",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "umbrella-auto-exchange",
+      "entity_name": "Umbrella Auto Exchange"
+    },
+    {
+      "url": "https://umbrellagroupworldwide.com",
+      "status": "active",
+      "priority": "medium",
+      "entity_key": "umbrella-group",
+      "entity_name": "Umbrella Group"
+    }
+  ]
+}

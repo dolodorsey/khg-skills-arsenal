@@ -36,7 +36,7 @@ const results = [];
       try {
         const response = await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
         httpStatus = response ? response.status() : null;
-        await page.waitForTimeout(2000);
+        await page.waitForTimeout(4500);
         finalUrl = page.url();
         title = await page.title();
         bodyTextLength = (await page.locator('body').innerText({ timeout: 5000 }).catch(() => '')).trim().length;

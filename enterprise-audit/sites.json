@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20",
-  "source": "KOLLECTIVE BOH enterprise_directory_records",
+  "generated_at": "2026-09-21",
+  "source": "KOLLECTIVE BOH enterprise_directory_records — repaired public routes",
   "sites": [
     {
       "url": "https://bevco-intl.vercel.app",
@@ -31,7 +31,7 @@
       "entity_name": "Help 911"
     },
     {
-      "url": "https://iconic-atl.com",
+      "url": "https://iconic-website-ten.vercel.app",
       "status": "active",
       "priority": "critical",
       "entity_key": "iconic-live-entertainment",
@@ -66,7 +66,7 @@
       "entity_name": "On Call"
     },
     {
-      "url": "https://prontoenergydrink.com",
+      "url": "https://pronto-energy-website.vercel.app",
       "status": "active",
       "priority": "critical",
       "entity_key": "pronto-energy",
@@ -78,13 +78,6 @@
       "priority": "critical",
       "entity_key": "s-o-s",
       "entity_name": "S.O.S."
-    },
-    {
-      "url": "https://111atl.com",
-      "status": "active",
-      "priority": "critical",
-      "entity_key": "rose-on-piedmont",
-      "entity_name": "The Rose on Piedmont"
     },
     {
       "url": "https://double-zero-three.vercel.app",
@@ -164,13 +157,6 @@
       "entity_name": "Courses"
     },
     {
-      "url": "https://www.diasporainatl.com",
-      "status": "build",
-      "priority": "high",
-      "entity_key": "diaspora-in-atl",
-      "entity_name": "Diaspora in ATL"
-    },
-    {
       "url": "https://doctordorsey.com",
       "status": "active",
       "priority": "high",
@@ -185,7 +171,7 @@
       "entity_name": "Espresso Co"
     },
     {
-      "url": "https://www.everydaywatergroup.com",
+      "url": "https://everyday-water-group.vercel.app",
       "status": "active",
       "priority": "high",
       "entity_key": "everyday-water-group",
@@ -346,13 +332,6 @@
       "entity_name": "Snow Ball"
     },
     {
-      "url": "https://www.thesoleexchangeworldwide.com",
-      "status": "active",
-      "priority": "high",
-      "entity_key": "sole-exchange",
-      "entity_name": "Sole Exchange"
-    },
-    {
       "url": "https://iconic-atl.com/series/30-plus",
       "status": "active",
       "priority": "high",
@@ -465,13 +444,6 @@
       "entity_name": "Peace Pizza"
     },
     {
-      "url": "https://playmakersports.org",
-      "status": "active",
-      "priority": "medium",
-      "entity_key": "playmaker-s-sports-association",
-      "entity_name": "Playmaker's Sports Association"
-    },
-    {
       "url": "https://caspergroupworldwide.com/taco-yaki",
       "status": "needs_contact_info",
       "priority": "medium",
@@ -514,7 +486,7 @@
       "entity_name": "Tribal Water"
     },
     {
-      "url": "https://umbrellaautoexchange.com",
+      "url": "https://umbrella-auto-exchange.vercel.app",
       "status": "active",
       "priority": "medium",
       "entity_key": "umbrella-auto-exchange",

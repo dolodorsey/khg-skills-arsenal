@@ -1,0 +1,40 @@
+name: Skills configuration validation
+on:
+  push:
+    paths:
+      - ".claude/settings.json"
+      - ".github/workflows/skills-config-validation.yml"
+  pull_request:
+    paths:
+      - ".claude/settings.json"
+      - ".github/workflows/skills-config-validation.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Validate Claude marketplace configuration and KHG skills
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          config=json.loads(Path('.claude/settings.json').read_text())
+          expected={
+            'instagram-agent': 'Jakeschincariol/instagram-agent-skill',
+            'replica-skill': 'Jakeschincariol/replica-skill',
+          }
+          for alias,repo in expected.items():
+            actual=config['extraKnownMarketplaces'][alias]['source']['repo']
+            assert actual==repo,(alias, actual)
+            assert config['enabledPlugins'][alias+'@'+alias] is True
+          core=['khg-enterprise-command','khg-entity-gm','khg-social-command','khg-platform-watchdog','khg-autonomy-audit']
+          for name in core:
+            assert Path(name,'SKILL.md').is_file(),name
+          print('PASS: marketplace config and core KHG skills present.')
+          print('NOTE: does not establish Claude Code runtime installation or executed work.')
+          PY

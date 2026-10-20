@@ -1,0 +1,20 @@
+{
+  "extraKnownMarketplaces": {
+    "instagram-agent": {
+      "source": {
+        "source": "github",
+        "repo": "Jakeschincariol/instagram-agent-skill"
+      }
+    },
+    "replica-skill": {
+      "source": {
+        "source": "github",
+        "repo": "Jakeschincariol/replica-skill"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "instagram-agent@instagram-agent": true,
+    "replica-skill@replica-skill": true
+  }
+}
